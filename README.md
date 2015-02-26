@@ -126,5 +126,5 @@ Credits
 ====
 - [Robert Lowe](https://github.com/robertlowe) - meteor developer and author of `persistent-reactive-dict`
 - [okgrow](https://github.com/okgrow) - consultancy and host for [Meteor Code Club](www.meetup.com/Meteor-Code-Club)
-- [Richard Gould](https://github.com/rgould) - author of the original `meteor-persistent-session` which must of the code is based on
+- [Richard Gould](https://github.com/rgould) - author of the original `meteor-persistent-session` which most of the code is based on
 - [Paul Dowman](https://github.com/pauldowman) - head of okgrow
