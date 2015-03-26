@@ -1,6 +1,6 @@
 Package.describe({
   name: "robertlowe:persistent-reactive-dict",
-  version: "0.1.1",
+  version: "0.1.2",
   summary: "PersistentReactiveDict implements persistence for a ReactiveDict",
   git: "https://github.com/robertlowe/persistent-reactive-dict"
 });

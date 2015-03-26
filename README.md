@@ -11,7 +11,7 @@ not available.
 Installation
 ============
 ```
-meteor add robert-lowe:persistent-reactive-dict
+meteor add robertlowe:persistent-reactive-dict
 ```
 
 ```
