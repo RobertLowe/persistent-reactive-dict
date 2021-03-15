@@ -14,7 +14,15 @@ Installation
 meteor add robertlowe:persistent-reactive-dict
 ```
 
+You may need these as well:
 ```
+meteor add typescript
+meteor add reactive-dict
+```
+
+```
+import { PersistentReactiveDict } from 'meteor/robertlowe:persistent-reactive-dict';
+
 mySession = new PersistentReactiveDict('mySession')
 ```
 
